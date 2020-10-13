@@ -278,6 +278,8 @@ footer .footer-left{
 footer .footer-left img{
     width: 250px;
 }
+
+
 footer .footer-links{
     color: #241b57;
     margin: 25px 0;
@@ -304,5 +306,71 @@ footer .footer-center{
     width: 35%; 
 }
 footer .footer-center i{
-    
+    background-color: #fff;
+    color: #ec4357;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 42px;
+    margin: 10px 15px;
+    vertical-align: middle;
 }
+
+footer .footer-center p{
+    display: inline-block;
+    color: #241b57;
+    vertical-align: middle;
+    margin: 0;
+    font-size: 14px;
+
+}
+
+footer .footer-center p span{
+    display: block;
+    font-weight: normal;
+    line-height: 2;
+}
+footer .footer-center p a{
+    color: #241b57;
+    text-decoration: none;
+
+}
+
+footer .footer-right{
+    width: 20%;
+}
+
+footer .footer-connect{
+    line-height: 20px;
+    color: #241b57;
+    font-size: 12px;
+    font-weight: normal;
+    margin: 0;
+}
+
+footer .footer-connect span{
+    display: block;
+    color: #ec4357;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+footer .footer-icons{
+    margin-top: 25px;
+
+}
+
+footer .footer-icons a{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    background-color: #fff;
+    font-size: 20px;
+    border-radius: 2px;
+    color: #ec4357;
+    text-align: center;
+    line-height: 35px;
+    margin-left: -5px;
+}
+
